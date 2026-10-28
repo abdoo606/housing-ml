@@ -20,3 +20,7 @@ pytest projects/24-housing-ml -q
 - One-hot and standardisation fitted on the training fold only - no leakage
 - k-fold cross-validation with per-fold metrics
 - MAE / RMSE / R² reported together
+
+## Repository
+- GitHub: https://github.com/{owner}/housing-ml
+- Python 3.11+ · tests: `pytest` · runtime dependencies: numpy
